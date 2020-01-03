@@ -6,6 +6,7 @@ This project requires Python 3.x and the following Python libraries installed:
 - Pandas
 - matplotlib
 - scikit-learn
+
 You will also need to have software installed to run and execute an iPython Notebook
 
 ### Code
